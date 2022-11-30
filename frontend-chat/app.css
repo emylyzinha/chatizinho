@@ -1,0 +1,92 @@
+html, body {
+    background-color: #7756D0;
+    text-align: center;
+    padding: 20px;
+    overflow-y:hidden;
+}
+img {
+    width: 400px;
+}
+.container {
+    width: 400px;
+    height: 400px;
+    background-color: #EBE5F9;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mensagem {
+    width: 400px;
+    height: 50px;
+    margin-bottom: 0px;
+    position: absolute;
+}
+
+.msg_ {
+    border-radius: 5px;
+    background-color: #7756D0;
+    border: 0px;
+    color: #EBE5F9;
+    height: 40px;
+    font-size: 16px;    
+}
+
+.msg {
+    border-radius: 5px;
+    background-color: #EBE5F9;
+    border: 0px;
+    color: #7756D0;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.enviar {
+    background-color: #643FBA;
+    color: #EBE5F9;
+    height: 40px;
+    border: 0px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #EBE5F9;
+    margin-top: 60px;
+}
+
+.btn_entrar {
+    height: 40px;
+    width: 100px;
+    color: #7756D0;
+    background-color: #EBE5F9;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.form_entrar {
+    width: 300px;
+    height: 300px;
+    border: solid 1px #EBE5F9;
+    background-color: #643FBA;
+    border-radius: 10px;
+    margin-top: 50px;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.display{
+    height: 360px;
+}
+.display div {
+    background-color: #7756D0;
+    color: #EBE5F9;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+}

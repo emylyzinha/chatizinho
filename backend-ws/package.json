@@ -11,11 +11,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/express": "^4.17.14",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
     "ws": "^8.11.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.9",
     "@types/ws": "^8.5.3",
-    "ts-node": "^10.9.1"
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3"
   }
 }
